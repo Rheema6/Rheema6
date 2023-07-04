@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rheema6
+- 👋 Hi, I’m @Rheema 
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning computing and software engineering
   
